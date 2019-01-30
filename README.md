@@ -1,4 +1,5 @@
-# upcoming-event
+# Upcoming Event
+## (Addon for The Events Calander Wordpress Plugin
 Redirects to the next upcoming event in a given category for The Events Calendar (Wordpress Plugin)
 
 Install and activate, no config.
